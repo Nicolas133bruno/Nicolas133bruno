@@ -6,8 +6,8 @@
 - 🏙️ Eu moro em Indianópolis MG
 <div>
   <a href="https://beacons.ai/nicolas133bruno">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas133bruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas133bruno&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas133bruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas133bruno&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
   <div style="display: inline_block"><br>
