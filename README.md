@@ -4,7 +4,12 @@
 - 📖 estudando Bancos de dados,Analise de sistemas e font-end mas pricipalemente Javascript
 - 📋tenho 16 anos
 - 🏙️ Eu moro em Indianópolis MG
-
+<div>
+  <a href="https://beacons.ai/nicolas133bruno">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas133bruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas133bruno&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Nicolasbruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-bancosdedados" height="30" width="40" src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000">
