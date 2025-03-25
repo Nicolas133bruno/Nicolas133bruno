@@ -2,6 +2,7 @@
  <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B25B&width=435&lines=Bem+vindo+a+meu+perfil+do+GitHub" alt="Typing SVG" /></a>
 </div>
+ <div align="center">
 - 🏫 Hoje eu estou no  IFTM cursando o 2° ano de desenvolvimento de sistemas
 - 📖 estudando Bancos de dados,Analise de sistemas e font-end mas pricipalemente Javascript
 - 📋tenho 16 anos
