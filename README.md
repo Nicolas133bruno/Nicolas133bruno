@@ -22,8 +22,10 @@
 </div>
 <div>
   <a href="https://beacons.ai/Nicolas133bruno">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas133bruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas133bruno&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas133bruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas133bruno&layout=compact&langs_count=16&theme=dark" />
   </a>
+</div>
+
 
   
