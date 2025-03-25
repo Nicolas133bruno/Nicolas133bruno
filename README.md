@@ -1,13 +1,12 @@
 ## meu nome é Nicolas Bruno Pereira
  <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B25B&width=435&lines=Bem+vindo+a+meu+perfil+do+GitHub" alt="Typing SVG" /></a>
-</div>
- <div align="center">
+ </div>
 - 🏫 Hoje eu estou no  IFTM cursando o 2° ano de desenvolvimento de sistemas
 - 📖 estudando Bancos de dados,Analise de sistemas e font-end mas pricipalemente Javascript
 - 📋tenho 16 anos
 - 🏙️ Eu moro em Indianópolis MG
- </div>
+ <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Nicolasbruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-bancosdedados" height="30" width="40" src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000">
