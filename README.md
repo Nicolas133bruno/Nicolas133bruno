@@ -11,7 +11,7 @@
   - 🏙️ Eu moro em Indianópolis, MG
 </p>
  <div>
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,JavaScript,HTML,CSS,CPP,GameMakerStudio,Python,Lua,RobloxStudio,Docker,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,html,css,cpp,python,lua,docker&perline=3)](https://skillicons.dev)
   </div>
   <div> 
 
