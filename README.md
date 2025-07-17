@@ -12,10 +12,7 @@
 </p>
  <div>
   
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,html,css,cpp,python,lua,docker&perline=3)](https://skillicons.dev)  
-[![GameMaker Studio](https://img.shields.io/badge/GameMaker_Studio-000000?style=for-the-badge&logo=yoast&logoColor=white)](https://www.gamemaker.io/en)
-[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/)
-
+  [![My Skills](https://skillicons.dev/icons?i=mysql,java,JavaScript,HTML,CSS,CPP,GameMakerStudio,Python,Lua,RobloxStudio,Docker,&perline=3)](https://skillicons.dev)
   </div>
   <div> 
 
