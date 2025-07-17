@@ -11,7 +11,11 @@
   - 🏙️ Eu moro em Indianópolis, MG
 </p>
  <div>
- [![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,html,css,cpp,python,lua,docker&perline=3)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,html,css,cpp,python,lua,docker&perline=3)](https://skillicons.dev)  
+[![GameMaker Studio](https://img.shields.io/badge/GameMaker_Studio-000000?style=for-the-badge&logo=yoast&logoColor=white)](https://www.gamemaker.io/en)
+[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/)
+
   </div>
   <div> 
 
