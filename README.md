@@ -5,8 +5,7 @@
   </a>
 </div>
 <p>
-  - 🏫 Hoje eu estou no IFTM cursando o 2° ano de Analise e desenvolvimento de sistemas<br>
-  - 📖 Estudando Bancos de dados, Análise de sistemas e front-end, mas principalmente Javascript<br>
+  - 📖 Estudante de Análise e Desenvovimento de Sistemas | IFTM Uberlândia Centro | Python / JavaScript / MySQL <br>
   - 📋 Tenho 16 anos<br>
   - 🏙️ Eu moro em Indianópolis, MG
 </p>
