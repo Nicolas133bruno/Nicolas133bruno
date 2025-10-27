@@ -12,7 +12,7 @@
 </p>
  <div>
   
- [![My Skills](https://skillicons.dev/icons?i=mysql,chatgpt,javascript,python,docker,linux&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,python,docker,linux&perline=3)](https://skillicons.dev)
  
 
   </div>
