@@ -5,7 +5,7 @@
   </a>
 </div>
 <p>
-  - 📖 Estudante de Análise e Desenvovimento de Sistemas no IFTM Uberlândia Centro, focado nas tecnologias Python, JavaScript, MySQL e principalmente IAs  <br>
+  - 📖 Estudante de Análise e Desenvovimento de Sistemas no IFTM Uberlândia Centro, focado nas tecnologias Python, JavaScript, MySQL e principalmente IAs <br>
   - 📋 Tenho 16 anos<br>
   - 🏙️ Eu moro em Indianópolis, MG
 </p>
